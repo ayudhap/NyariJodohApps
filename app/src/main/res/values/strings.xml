@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NyariJodohApps</string>
+    <string-array name="jenisKelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
